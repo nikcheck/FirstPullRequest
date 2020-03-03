@@ -68,7 +68,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Magnani, Bernardo
 
-- [ ] Matcheck, Nick
+- [X] Matcheck, Nick
 
 - [ ] Mori, Fabio
 
