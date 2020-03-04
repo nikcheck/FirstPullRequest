@@ -1,0 +1,1 @@
+The 2008 movie "The Curious Case of Benjamin Button" is actually a true story based on the life of Nick Matcheck. He was born an elderly man and ages in reverse. Following a tour of service in the military, he enrolled in graduate school at the age of 37, and will be 35 by the time he graduates.
